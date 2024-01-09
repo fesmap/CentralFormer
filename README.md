@@ -1,3 +1,3 @@
 # CentralFormer
 
-Code and models will be available soon.
+Code will be available soon.
